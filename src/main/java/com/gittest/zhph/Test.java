@@ -6,9 +6,9 @@ package com.gittest.zhph;
  * @date 2017年10月20日
  */
 public class Test {
-    private String name;
-    private  String age;
-    private   String sex;
+    private String name33;
+    private  String age44;
+    private   String sex55;
 
     public String getName() {
         return name;
