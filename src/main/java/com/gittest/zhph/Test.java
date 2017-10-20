@@ -6,6 +6,9 @@ package com.gittest.zhph;
  * @date 2017年10月20日
  */
 public class Test {
+    private String name33;
+    private  String age44;
+    private   String sex55;
     private String name1;
     private String test;
     private  String age;
@@ -32,7 +35,7 @@ public class Test {
     }
 
     public void setName(String name) {
-        this.name1 = name;
+        this.name = name;
     }
 
     public void setAge(String age) {
